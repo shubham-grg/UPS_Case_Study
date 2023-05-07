@@ -1,0 +1,9 @@
+D:\Shubham's\TCS\UPS\CaseStudyService\bin\Debug\CaseStudyService.dll
+D:\Shubham's\TCS\UPS\CaseStudyService\bin\Debug\CaseStudyService.pdb
+D:\Shubham's\TCS\UPS\CaseStudyService\bin\Debug\Newtonsoft.Json.dll
+D:\Shubham's\TCS\UPS\CaseStudyService\bin\Debug\Newtonsoft.Json.xml
+D:\Shubham's\TCS\UPS\CaseStudyService\obj\Debug\CaseStudyService.csproj.CoreCompileInputs.cache
+D:\Shubham's\TCS\UPS\CaseStudyService\obj\Debug\CaseStudyService.csproj.CopyComplete
+D:\Shubham's\TCS\UPS\CaseStudyService\obj\Debug\CaseStudyService.dll
+D:\Shubham's\TCS\UPS\CaseStudyService\obj\Debug\CaseStudyService.pdb
+D:\Shubham's\TCS\UPS\CaseStudyService\obj\Debug\CaseStudyService.csproj.AssemblyReference.cache
