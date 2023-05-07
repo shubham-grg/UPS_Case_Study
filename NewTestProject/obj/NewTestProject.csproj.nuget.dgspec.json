@@ -1,0 +1,109 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\Shubham's\\TCS\\UPS\\NewTestProject\\NewTestProject.csproj": {}
+  },
+  "projects": {
+    "D:\\Shubham's\\TCS\\UPS\\CaseStudyService\\CaseStudyService.csproj": {
+      "restore": {
+        "projectUniqueName": "D:\\Shubham's\\TCS\\UPS\\CaseStudyService\\CaseStudyService.csproj",
+        "projectName": "CaseStudyService",
+        "projectPath": "D:\\Shubham's\\TCS\\UPS\\CaseStudyService\\CaseStudyService.csproj"
+      },
+      "frameworks": {
+        "net472": {}
+      }
+    },
+    "D:\\Shubham's\\TCS\\UPS\\NewTestProject\\NewTestProject.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Shubham's\\TCS\\UPS\\NewTestProject\\NewTestProject.csproj",
+        "projectName": "NewTestProject",
+        "projectPath": "D:\\Shubham's\\TCS\\UPS\\NewTestProject\\NewTestProject.csproj",
+        "packagesPath": "C:\\Users\\LENOVO\\.nuget\\packages\\",
+        "outputPath": "D:\\Shubham's\\TCS\\UPS\\NewTestProject\\obj\\",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "configFilePaths": [
+          "C:\\Users\\LENOVO\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net472"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net472": {
+            "projectReferences": {
+              "D:\\Shubham's\\TCS\\UPS\\CaseStudyService\\CaseStudyService.csproj": {
+                "projectPath": "D:\\Shubham's\\TCS\\UPS\\CaseStudyService\\CaseStudyService.csproj"
+              },
+              "D:\\Shubham's\\TCS\\UPS\\UPSCaseStudy\\UPSCaseStudy.csproj": {
+                "projectPath": "D:\\Shubham's\\TCS\\UPS\\UPSCaseStudy\\UPSCaseStudy.csproj"
+              }
+            }
+          }
+        }
+      },
+      "frameworks": {
+        "net472": {
+          "dependencies": {
+            "Autofac.Extras.Moq": {
+              "target": "Package",
+              "version": "[6.1.0, )"
+            },
+            "MSTest.TestAdapter": {
+              "target": "Package",
+              "version": "[2.1.2, )"
+            },
+            "MSTest.TestFramework": {
+              "target": "Package",
+              "version": "[2.1.2, )"
+            },
+            "Selenium.WebDriver": {
+              "target": "Package",
+              "version": "[3.14.0, )"
+            },
+            "xunit.extensibility.core": {
+              "target": "Package",
+              "version": "[2.4.2, )"
+            }
+          }
+        }
+      },
+      "runtimes": {
+        "win": {
+          "#import": []
+        },
+        "win-x64": {
+          "#import": []
+        },
+        "win-x86": {
+          "#import": []
+        }
+      }
+    },
+    "D:\\Shubham's\\TCS\\UPS\\UPSCaseStudy\\UPSCaseStudy.csproj": {
+      "restore": {
+        "projectUniqueName": "D:\\Shubham's\\TCS\\UPS\\UPSCaseStudy\\UPSCaseStudy.csproj",
+        "projectName": "UPSCaseStudy",
+        "projectPath": "D:\\Shubham's\\TCS\\UPS\\UPSCaseStudy\\UPSCaseStudy.csproj",
+        "frameworks": {
+          "net472": {
+            "projectReferences": {
+              "D:\\Shubham's\\TCS\\UPS\\CaseStudyService\\CaseStudyService.csproj": {
+                "projectPath": "D:\\Shubham's\\TCS\\UPS\\CaseStudyService\\CaseStudyService.csproj"
+              }
+            }
+          }
+        }
+      },
+      "frameworks": {
+        "net472": {}
+      }
+    }
+  }
+}
